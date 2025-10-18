@@ -9,6 +9,6 @@ Date: August 2025
 ---
 
 ## 💻 Skills
-- Python, SQL, Power BI
+- Python, SQL, Excel
 - Data Analysis & Visualization
 - Machine Learning Basics
