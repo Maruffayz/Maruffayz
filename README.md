@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Maruf
 
-<!--
-**Maruffayz/Maruffayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Certifications
+### IBM Data Science Professional Certificate  
+Issued by: [IBM](https://www.ibm.com)  
+Date: October 2025  
+[🔗 View Certificate]([https://www.credly.com/badges/your-badge-link](https://www.coursera.org/account/accomplishments/specialization/Y3H7UNGPITFZ))
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python, SQL, Power BI
+- Data Analysis & Visualization
+- Machine Learning Basics
