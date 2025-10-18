@@ -3,7 +3,7 @@
 ## 🎓 Certifications
 ### IBM Data Science Professional Certificate  
 Issued by: [IBM](https://www.ibm.com)  
-Date: October 2025  
+Date: August 2025  
 [🔗 View Certificate]([https://www.credly.com/badges/your-badge-link](https://www.coursera.org/account/accomplishments/specialization/Y3H7UNGPITFZ))
 
 ---
